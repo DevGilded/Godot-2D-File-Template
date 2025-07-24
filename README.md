@@ -1,2 +1,2 @@
-!Warning: make sure to delete the .gitkeep\n
+!Warning: make sure to delete the .gitkeep
 find . -name ".gitkeep" -type f -delete
